@@ -17,7 +17,7 @@ The technical requirements for this project are as follows:
  - In total, you will have to find data using the following three sources:
     - A csv/excel sheet from the internet (e.g. Kaggle/Google/ML Repository etc.). 
     - API.
-    - Raw HTML (webscraping). 
+    - Raw HTML (web scraping). 
  - The data must be stored in your local database (not just as comma separated files!). 
  - The data should be clean and ready to use. 
 
@@ -25,12 +25,9 @@ The technical requirements for this project are as follows:
 
 The following deliverables should be pushed to your branch:
 
-- **A Jupyter notebook** constaining the basic cleaning procedures and a link to your local database.  
+- **A Jupyter notebook** containing the basic cleaning procedures and a link to your local database.  
 - **A presentation** in which you explain your RQ, where you got the data from, how you cleaned it and how you expect you use it to answer your questions. 
 - **An empty data folder** with a read me file inside that explains the data sets.
-- **DATA** Please do not upload any data to the repository but place a link to the data in your jupyter notebook as we usually do 
-  You can then ask the reader in the notebook to download the data and place them locally in the provided empty data folder. The link in the notebook can point to the original data set or to our google drive [here](https://drive.google.com/drive/folders/1D1iseKNOy50mqo31FkuQbID-zfCyijZD?usp=sharing) where you can store the data. The exact raw data set you used should be linked. 
-
 
 ## Resources and suggestions
 
@@ -58,6 +55,8 @@ A great new source is the <br> [Google dataset search](https://toolbox.google.co
 This will be useful as an overall gauge of whether you met the project goals, but __the more important scores are described in the specs above__, which can help you identify where to focus your efforts for the next project!
 
 ## Presentation Guideline and Criteria
+
+You will present your mini project on May 15th. 
 
 ### Format
 
