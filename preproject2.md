@@ -4,7 +4,7 @@
 
 ## Overview
 
-The goal of this miniproject is to find and acquire data. Ideally, you should be able to use this data for the next (data visualisation) project. 
+The goal of this miniproject is to find and acquire data. Ideally, you should be able to use these data for the next (data visualisation) project. 
 
 ---
 
